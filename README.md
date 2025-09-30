@@ -1,6 +1,6 @@
 # svd-protein-dynamics
 
-Python script applying SVD (Singular Value Decomposition) to an MD (Molecular Dynamics) trajectory to determine the modes of motion of a protein.
+Python script applying SVD (Singular Value Decomposition) to an MD (Molecular Dynamics) trajectory to determine the modes of motion of a protein. See "main.pdf" for my report and a more detailed description.
 
 ## Requirements
 **MDAnalysis** (https://www.mdanalysis.org/) to read from and write to molecular dynamics file formats such as PSF, PDB, and DCD.
